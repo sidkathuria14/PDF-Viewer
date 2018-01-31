@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="send an email"
+        android:id="@+id/sendEmail">
+    </item>
+    <item
+        android:title="share"
+        android:id="@+id/share">
+    </item>
+    <item
+        android:title="view source code"
+        android:id="@+id/sourceCode">
+    </item>
+
+</menu>
